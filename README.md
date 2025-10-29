@@ -1,6 +1,6 @@
 # MIPS-CPU
 
-MIPS CPU Implementation @ COSE222(Computer Architecture)
+MIPS CPU Implementation @ COSE222 (Computer Architecture)
 
 ## Milestone
 
